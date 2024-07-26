@@ -22,7 +22,7 @@ To understand how the polar form is derived, check out this video.
 
 Complex numbers are important in quantum mechanics and quantum computing, (explanation of this concept)[^1]
 
-[^1] [Scientific American](https://www.scientificamerican.com/article/quantum-physics-falls-apart-without-imaginary-numbers/#:~:text=Standard%20quantum%20theory%2C%20with%20its,that%20these%20other%20versions%20lack.)
+[^1]: [Scientific American](https://www.scientificamerican.com/article/quantum-physics-falls-apart-without-imaginary-numbers/#:~:text=Standard%20quantum%20theory%2C%20with%20its,that%20these%20other%20versions%20lack.)
 
 🧮
 
