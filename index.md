@@ -6,11 +6,13 @@ layout: single
 author_profile: false
 ---
 
-Complex numbers are numbers with a *real component* and an **imaginary component**, in the form \\(a+bi\\), where \\(a\\) and \\(b\\) are ***real numbers*** and i is the ***imaginary unit***. 
+As climate change takes more of a toll on our planet, the need for ecological restoration has increased. This is why I am focusing on using quantum computing to predict weather for use in species distribution models. **Specifically for oak conservation** 
 
-An extended explanation of complex numbers can be found [here](https://en.wikipedia.org/wiki/Complex_number). 
+Look here for a better explanation of what ecological restoration is. [here](https://ser-rrc.org/what-is-ecological-restoration/). 
 
-It can be helpful to visualize complex numbers on the complex plane:
+For successful ecological restoration, there must be a deep understanding of the relationship between an organism and its environment. Those working to restore an area must know exactly where a species lives. 
+
+However, in some cases, it may be more beneficial to use weather patterns rather than climate when figuring out species distribution. 
 
 ![Complex plane](https://upload.wikimedia.org/wikipedia/commons/5/57/90-Degree_Rotations_in_the_Complex_Plane.png)
 
