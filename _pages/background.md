@@ -1,5 +1,5 @@
 ---
-permalink: /background/
+permalink: /background.md/
 title: "Background"
 ---
 
