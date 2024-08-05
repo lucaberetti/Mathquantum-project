@@ -1,4 +1,4 @@
 ---
-Permalink: /Questions/
+Permalink: /questions/
 Title: "Questions"
 ---
