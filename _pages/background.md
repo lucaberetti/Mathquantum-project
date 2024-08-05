@@ -1,8 +1,10 @@
 ---
 permalink: /background/
-title: "background"
+title: "Background"
 ---
 For successful ecological restoration, there must be a deep understanding of the relationship between an organism and its environment. Those working to restore an area must know exactly where a species lives. 
+
+There are many different ways scientists study where species are located to best determine where to focus restoration efforts. One of these ways is called species distribution modelling. 
 
 However, in some cases, it may be more beneficial to use weather patterns rather than climate when figuring out species distribution. 
 
