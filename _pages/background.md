@@ -1,5 +1,5 @@
 ---
-permalink: /background.md/
+permalink: /background/
 title: "background"
 ---
 For successful ecological restoration, there must be a deep understanding of the relationship between an organism and its environment. Those working to restore an area must know exactly where a species lives. 
