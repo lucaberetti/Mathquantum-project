@@ -10,10 +10,6 @@ As climate change takes more of a toll on our planet, the need for ecological re
 
 Look here for a better explanation of what ecological restoration is. [here](https://ser-rrc.org/what-is-ecological-restoration/). 
 
-For successful ecological restoration, there must be a deep understanding of the relationship between an organism and its environment. Those working to restore an area must know exactly where a species lives. 
-
-However, in some cases, it may be more beneficial to use weather patterns rather than climate when figuring out species distribution. 
-
 ![Complex plane](https://upload.wikimedia.org/wikipedia/commons/5/57/90-Degree_Rotations_in_the_Complex_Plane.png)
 
 Complex numbers can also be represented in polar form as seen below 
