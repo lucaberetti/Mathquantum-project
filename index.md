@@ -11,7 +11,7 @@ As climate change takes more of a toll on our planet, the need for ecological re
 
 Look here for a better explanation of what ecological restoration is. [here](https://ser-rrc.org/what-is-ecological-restoration/). 
 
-The video linked below can explain quantum computing in more detail. *This video is one of my personal favorites*
+The video linked [here](https://youtu.be/jHoEjvuPoB8?si=P1HZliGZYtKJNjSs) can explain quantum computing in more detail. *This video is one of my personal favorites*
 
 
 
