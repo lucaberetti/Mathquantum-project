@@ -9,4 +9,7 @@ There are many different ways scientists study where species are located to best
 However, in some cases, it may be more beneficial to use weather patterns rather than climate when figuring out species distribution. 
 For example, when reforesting an area and planting seedlings, weather is very important. Seeds can die if exposed to conditions that are too harsh, so knowing the exact weather of any given timeframe is extremely important. 
 
-Weather can be tracked using fluid dynamics equations called the Navier-Stoked equations. However, these are a set of differential equations, and classical computers are not particularly effective at solving them. 
+Weather can be tracked using fluid dynamics equations called the Navier-Stoked equations. However, these are a set of differential equations, and classical computers are not particularly effective at solving them. (explanation of this) [^Classical/differential]
+
+[^Classical/differential]: [Oz. et Al](https://www.nature.com/articles/s41598-023-34966-3#:~:text=However%2C%20it%20is%20challenging%20to,simulations%20of%20more%20complex%20problems.)
+
